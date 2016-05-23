@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Mon May 23 00:27:17 PYT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a816c00e-0154-dbdd-f1f4-000000a78ff8 
+on database directory E:\SistemaComunal final\DB\Derby.DB  with class loader sun.misc.Launcher$AppClassLoader@52e922 
+Loaded from file:/E:/SistemaComunal%20final/src/Librerias/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_71-b15
+user.dir=E:\SistemaComunal final
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
